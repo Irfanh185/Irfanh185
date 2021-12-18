@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Irfan
 - 👀 I’m interested in creating full stack web apps
-- 🌱 I’m currently learning software engineering the school of code
+- 🌱 I’m currently learning software engineering @ the school of code
 - 💞️ I’m looking to collaborate on JavaScript projects
 - 📫 How to reach me twitter @theirfanhussain, www.linkedin.com/in/irfan-hussain
 
