@@ -5,7 +5,7 @@
 - 📫 How to reach me twitter @theirfanhussain, www.linkedin.com/in/irfan-hussain
 
 
-![Irfan's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![Irfan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Irfan&theme=dark&show_icons=true)
 
 <!---
 Irfanh185/Irfanh185 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
