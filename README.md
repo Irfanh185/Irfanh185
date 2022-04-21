@@ -2,7 +2,7 @@
 
 ### 🥗 [iGive, a web app to created to reduce food waste](https://github.com/SchoolOfCode/final-project-front-end-it-crowd-room-27)
 
-## ⚡ Technologies
+## ⚡ Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react)
