@@ -19,7 +19,7 @@
 ![Cypress](https://img.shields.io/badge/-Cypress-darkblue?style=flat-square&logo=cypress)
 
 ## 📈 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=irfanh185&hide=TeX&layout=compact)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=irfanh185&show_icons=true&theme=radical)
 
 
