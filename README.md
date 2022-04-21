@@ -1,8 +1,6 @@
-- 👋 Hi, I’m Irfan
-- 👀 I’m interested in creating full stack web apps
-- 🌱 I’m currently learning software engineering @ the school of code
-- 💞️ I’m looking to collaborate on JavaScript projects
-- 📫 How to reach me twitter @theirfanhussain, www.linkedin.com/in/irfan-hussain
+### I'm Irfan Hussain, a full stack developer looking for my first role in the industry. Check out some of my projects below!
+
+### 🥗 [iGive, a web app to created to reduce food waste](https://github.com/SchoolOfCode/final-project-front-end-it-crowd-room-27)
 
 ## ⚡ Technologies
 
