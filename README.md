@@ -1,4 +1,4 @@
-### I'm Irfan Hussain, a full stack developer looking for my first role in the industry.
+### I'm Irfan Hussain, an aspiring full stack developer looking for my first role in the industry.
 
 
 
