@@ -1,6 +1,6 @@
-### I'm Irfan Hussain, a full stack developer looking for my first role in the industry. Check out some of my projects below!
+### I'm Irfan Hussain, a full stack developer looking for my first role in the industry.
 
-### 🥗 [iGive, a web app to created to reduce food waste](https://github.com/SchoolOfCode/final-project-front-end-it-crowd-room-27)
+
 
 ## ⚡ Tech Stack
 
