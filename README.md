@@ -2,9 +2,9 @@
 
 
 
-## ⚡ Tech Stack
+<!-- ## ⚡ Tech Stack -->
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+<!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -14,7 +14,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Heroku](https://img.shields.io/badge/-Heroku-purple?style=flat-square&logo=heroku)
 ![Netlify](https://img.shields.io/badge/-Netlify-white?style=flat-square&logo=netlify)
-![Cypress](https://img.shields.io/badge/-Cypress-darkblue?style=flat-square&logo=cypress)
+![Cypress](https://img.shields.io/badge/-Cypress-darkblue?style=flat-square&logo=cypress) -->
 
 ## 📈 GitHub Stats
 
